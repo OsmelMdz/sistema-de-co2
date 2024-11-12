@@ -20,6 +20,5 @@ Antes de iniciar, asegúrate de tener Node.js y npm instalados en tu sistema.
 ### Instalación del Proyecto
 
 1. Clona el repositorio en tu máquina local:
-   ```bash
    git clone https://github.com/OsmelMdz/sistema-de-co2.git
    cd sistema-de-co2

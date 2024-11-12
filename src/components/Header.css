@@ -1,0 +1,19 @@
+.titulo {
+    font-size: 2.5em;
+    color: #001d1a;
+    margin-bottom: 0px;
+    padding: 0px;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .titulo {
+        font-size: 1.2em
+    }
+}
+
+@media (max-width: 480px) {
+    .titulo {
+        font-size: 1.2em
+    }
+}
